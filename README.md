@@ -10,7 +10,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=snxRCS&theme=onedark)](https://github.com/snxRCS/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snxRCS&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 Technologies & Tools
 
