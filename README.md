@@ -10,7 +10,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=snxRCS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=snxRCS&theme=onedark)](https://github.com/snxRCS/github-profile-trophy)
 
 ## 🚀 Technologies & Tools
 
