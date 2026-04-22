@@ -48,7 +48,7 @@
 ## 📫 Contact
 
 - 🌐 **Website:** [snxrcs.me](https://snxrcs.me)
-- 📧 **Mail:** snxrcsme[at]gmail.com
+- 📧 **Mail:** [tobi@snxrcs.me](mailto:tobi@snxrcs.me)
 
 ---
 
