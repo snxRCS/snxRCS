@@ -1,55 +1,68 @@
-# 👋 Welcome to my GitHub Profile!
+<div align="center">
 
-## 🌟 About Me
+# Hey, I'm Tobi 👋
 
-- 👨‍💻 **Infrastructure & Self-Hosting Enthusiast** from Hamburg, Germany.
-- 🐧 I live in the Linux / Docker / reverse-proxy side of things.
-- 🎤 Currently running my own **Pelican Panel** for voice & game servers at [snxrcs.me](https://snxrcs.me).
-- 🔓 **Open-source first.** I'd rather self-host than pay a license.
-- ⚡ Fun fact: my uptime graph is flatter than my work-life balance.
+**Infrastructure Nerd · Self-Hosting Enthusiast · Open-Source First**
+
+Hamburg, Germany &nbsp;·&nbsp; [snxrcs.me](https://snxrcs.me) &nbsp;·&nbsp; [tobi@snxrcs.me](mailto:tobi@snxrcs.me)
+
+[![GitHub followers](https://img.shields.io/github/followers/snxRCS?style=social)](https://github.com/snxRCS)
+[![GitHub User's stars](https://img.shields.io/github/stars/snxRCS?style=social)](https://github.com/snxRCS?tab=repositories)
+
+</div>
 
 ---
+
+## 🔧 What I do
+
+I run my own infrastructure — DNS, mail, auth, reverse proxies — the whole stack. If there's a self-hosted alternative, I'm running it. If there isn't, I'm building it.
+
+- 🐧 Linux-native, Docker-first, always-on-the-terminal
+- 🔐 **Security is not an addon, it's a lifestyle** — Zero Trust, mTLS, SSO everywhere
+- 🏗️ Running full self-hosted infra: Proxmox, pfSense, HAProxy, Authentik, grommunio
+- 💡 No licenses. Ever. Open source or I build it myself.
+- ⚡ Uptime graph flatter than my work-life balance.
+
+---
+
+## 🚀 Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+
+---
+
+## 📦 Projects
+
+| Project | What it does |
+|---------|-------------|
+| [**claude-max-api-proxy**](https://github.com/snxRCS/claude-max-api-proxy) | OpenAI-compatible proxy for Claude Max — turns your Anthropic subscription into an API |
+| [**better-npm**](https://github.com/snxRCS/better-npm) | Nginx Proxy Manager fork with LDAP, SSO & 2FA baked in |
+| [**pelican-eggs**](https://github.com/snxRCS/pelican-eggs) | Community Pelican Panel eggs with pre-built GHCR images — no build-from-source required |
+
+---
+
+## 📊 Stats
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=snxRCS&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-## 🚀 Technologies & Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snxRCS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snxRCS&layout=compact&theme=radical&hide_border=true)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snxRCS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snxRCS&layout=compact&theme=radical)
+If my work saves you a `sudo apt install` marathon — drop a ⭐
 
----
-
-## 🛠️ What I'm Working On
-
-- **🥚 Pelican Eggs** — community-maintained [Pelican Panel](https://pelican.dev) eggs with pre-built GHCR images, so nodes never have to build from source. [`snxRCS/pelican-eggs`](https://github.com/snxRCS/pelican-eggs)
-- **🔐 better-npm** — a forked Nginx Proxy Manager with LDAP, SSO, and 2FA baked in. [`snxRCS/better-npm`](https://github.com/snxRCS/better-npm)
-
----
-
-## 🏆 Pinned Repositories
-
-[![pelican-eggs](https://github-readme-stats.vercel.app/api/pin/?username=snxRCS&repo=pelican-eggs&theme=radical)](https://github.com/snxRCS/pelican-eggs)
-[![better-npm](https://github-readme-stats.vercel.app/api/pin/?username=snxRCS&repo=better-npm&theme=radical)](https://github.com/snxRCS/better-npm)
-
----
-
-## 📫 Contact
-
-- 🌐 **Website:** [snxrcs.me](https://snxrcs.me)
-- 📧 **Mail:** [tobi@snxrcs.me](mailto:tobi@snxrcs.me)
-
----
-
-Thanks for stopping by! 🚀 If my work saves you a `sudo apt install` marathon, consider dropping a ⭐.
+</div>
