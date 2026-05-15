@@ -54,8 +54,8 @@ I run my own infrastructure — DNS, mail, auth, reverse proxies — the whole s
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=snxRCS&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snxRCS&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snxRCS&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](github-metrics.svg)
+![Top Languages](github-languages.svg)
 
 </div>
 
